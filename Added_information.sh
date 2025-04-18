@@ -9,6 +9,10 @@ echo " "
 echo "> 18-04-2025"
 sleep 2s
 echo "> youVixFHD v3 Skin Mod H-Ahmed 18-04-2025 updated"
+echo "> xklass plugin v1.48 18-04-2025 updated"
+echo "> xstreamity plugin v4.96 18-04-2025 updated"
+echo "> bouquetmakerxtream 1.48 18-04-2025 updated"
+echo "> levi45multicammanager 10.2-r1 18-04-2025 updated"
 sleep 2s
 
 echo " "
