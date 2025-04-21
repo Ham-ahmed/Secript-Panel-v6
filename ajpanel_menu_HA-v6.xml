@@ -183,8 +183,8 @@
 	</submenu>
 
 	<submenu title="Free" info="Free-Server" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/free.png" bg="/media/hdd/AJPanel_Backup/vector/fff.png" title_bg="#06000040" title1_fg="#00808000" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-		<item name="67-xtreamity Manage playlists" info="23-xtreamty Manage playlists-30-03-2025" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/fre.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/214/refs/heads/main/67-xtreamity.sh -O - | /bin/sh </item>
-		<item name="67-xklass Manage playlists" info="23-xklass Manage playlists-30-03-2025" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/fre.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/214/refs/heads/main/67-xklass.sh -O - | /bin/sh </item>
+		<item name="67-xtreamity Manage playlists" info="67-xtreamty Manage playlists-21-04-2025" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/fre.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/214/refs/heads/main/67-xtreamity.sh -O - | /bin/sh </item>
+		<item name="67-xklass Manage playlists" info="67-xklass Manage playlists-21-04-2025" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/fre.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/214/refs/heads/main/67-xklass.sh -O - | /bin/sh </item>
 		<item name="23-xtreamity Manage playlists" info="23-xtreamty Manage playlists-30-03-2025" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/fre.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/303/refs/heads/main/23-xtreamity.sh -O - | /bin/sh </item>
 		<item name="23-xklass Manage playlists" info="23-xklass Manage playlists-30-03-2025" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/fre.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/303/refs/heads/main/23-xclass.sh -O - | /bin/sh </item>
 		<item name="17-xtreamity Manage playlists" info="17-xtreamty Manage playlists-08-03-2025" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/fre.png">wget -qO $HOME/stalker.conf https://raw.githubusercontent.com/Ham-ahmed/73/refs/heads/main/17-xtreamity.sh -O - | /bin/sh </item>
@@ -335,7 +335,7 @@
 	</submenu>
 
 	<submenu title="Plugins" info="Dwawnload All plugin" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/PPlugins.png" bg="/media/hdd/AJPanel_Backup/vector/ooo.png" title_bg="#06000040" title1_fg="#00FFFF80" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-		<item name="youtube1_ffmpeg_177_armv7ahf" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/233/refs/heads/main/ffmpeg_177_armv7ahf.sh -O - | /bin/sh</item>
+		<item name="oscamstatus_6.6" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/214/refs/heads/main/oscamstatus_6.6.sh -O - | /bin/sh</item>
 		<item name="setpicon_v3.0_New" info="New-plugin-All_py3" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/133/refs/heads/main/setpicon_v3.0.sh -O - | /bin/sh</item>
 		<item name="acherone_1.2_New" info="New-plugin-All_scripts" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/2102/refs/heads/main/acherone_1.2.sh -O - | /bin/sh</item>
 		<item name="simple-zoom-panel_2.2.5" info="New-plugin" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/2102/refs/heads/main/simple-zoom-panel_2.2.5.sh -O - | /bin/sh</item>
@@ -467,6 +467,7 @@
        </submenu>
 
 	<submenu title="Cam-Emulator" info="Dwawnload All Emu" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/cam2.png" bg="/media/hdd/AJPanel_Backup/vector/bacup2.png" title_bg="#06000040" title1_fg="#00FFFF00" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="Ncam-emu_v15.3-r0" info="New_v15.3-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/nc.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/214/refs/heads/main/ncam_V15.3-r0.sh -O - | /bin/sh</item>
 		<item name="Ncam-emu_v15.2-r0" info="New_v15.2-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/nc.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/2412/refs/heads/main/ncam_15.2-r0_all.sh -O - | /bin/sh</item>
 		<item name="Ncam-emu_v15.1-r0" info="New_v15.1-r0_fairman" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/nc.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/softcam-emu/refs/heads/main/ncam_15.1-r0_all.sh -O - | /bin/sh</item>
 		<item name="oscam-emu_11868_mohamed-OS" info="oscam-11868-r802" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/os.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/22/refs/heads/main/oscam_11868-emu-r802.sh -O - | /bin/sh</item>
@@ -765,6 +766,7 @@
 		<item name="Xklass-1.12_25-8-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/main/xklass_v1.12-20240825_all.sh -O - | /bin/sh</item>
 		<item name="Xklass-1.10_23-8-2024" info="plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/main/Xklass-v1.10-plugin.sh -O - | /bin/sh</item>
 		<item name="iptosat-1.8" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://gitlab.com/eliesat/extensions/-/raw/main/iptosat/iptosat.sh -O - | /bin/sh</item>
+		<item name="bouquetmakerxtream-v1.51" info="New-plugin_21-02-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/214/refs/heads/main/bouquetmakerxtream_1.51.sh -O - | /bin/sh</item>
 		<item name="bouquetmakerxtream-v1.48" info="New-plugin_03-02-2024" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/154/refs/heads/main/bouquetmakerxtream_1.48.sh -O - | /bin/sh</item>
 		<item name="bouquetmakerxtream-v1.47" info="New-plugin_06-04-2025" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/64/refs/heads/main/bouquetmakerxtream_1.47.sh -O - | /bin/sh</item>
 		<item name="bouquetmakerxtream-1.27_20-10-2024" info="New-plugin-by KiddaC" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/i.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Iptv-plugin/refs/heads/main/bouquetmakerxtream_1.27.sh -O - | /bin/sh</item>
@@ -897,6 +899,7 @@
 	</submenu>
 	
 	<submenu title="Media" info="Dwawnload All plugin" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Media.png" bg="/media/hdd/AJPanel_Backup/vector/s-s.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+		<item name="e2iplayer by mohamed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "https://gitlab.com/zadmario/e2iplayer/-/raw/master/install-e2iplayer.sh?inline=false" -O - | /bin/sh</item>
 		<item name="e2iplayer by mohamed" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget --no-check-certificate "https://gitlab.com/MOHAMED_OS/e2iplayer/-/raw/main/install-e2iplayer.sh?inline=false" -qO - | /bin/sh</item>
 		<item name="moviesbrowser-3.8" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/1New-P/main/moviesbrowser-3.8.sh -O - | /bin/sh</item>
 		<item name="IPtoSAT" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/plu.png">wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh</item>
