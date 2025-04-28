@@ -2,7 +2,18 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 24-04-2025"
+echo "> 29-04-2025"
+sleep 2s
+
+echo " "
+echo "> 29-04-2025"
+sleep 2s
+echo "> auto dcw key add v1.0 29-04-2025 updated"
+echo "> keyadder plugin v8.4 29-04-2025 updated"
+echo "> oscam emu levi45 11882 802 29-04-2025 updated"
+echo "> oscam emu 11881 802 audi06_19 29-04-2025 updated"
+echo "> xklass plugin v1.49 29-04-2025 updated"
+echo "> xstreamity plugin v4.97 29-04-2025 updated"
 sleep 2s
 
 echo " "
@@ -57,5 +68,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 24-04-2025 <<<"
+echo ">>> Last Updatting 29-04-2025 <<<"
 exit 0
