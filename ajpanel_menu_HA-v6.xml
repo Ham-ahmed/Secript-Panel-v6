@@ -67,7 +67,7 @@
 		</submenu>
 
 		<submenu title="OPENPBH-5.5.1" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/bh1.png" bg="/media/hdd/AJPanel_Backup/vector/ggg.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-			<item name="Mx-PrioFHD-Skin-Mod_H-Ahmed-New" info="openBH_5.5.1.009-py-3.12.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://gitlab.com/h-ahmed/Panel/-/raw/main/prio/Mx-PrioFHD-Skin-Mod_H-Ahmed.sh -O - | /bin/sh</item>
+			<item name="Mx-PrioFHD-Skin-Mod_H-Ahmed-New" info="openBH_5.5.1.009-py-3.12.9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/294/refs/heads/main/Mx-PrioFHD-Skin-Mod_H-Ahmed.sh -O - | /bin/sh</item>
 			<item name="MX_Slim-Line_NP_Mod_H-Ahmed" info="openBH_5.5.1.008-9" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://gitlab.com/h-ahmed/Panel/-/raw/main/mx-slim/MX_Slim-Line_NP_Mod_H-Ahmed.sh -O - | /bin/sh</item>
 			<item name="MX_LiveFHD_posterX-v4_New" info="openBH_5.4.1.002-py-3.12.3-4" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Skins2024/main/MX-LiveFHD-posterX_v4-mod-HAhmed.sh -O - | /bin/sh</item>
 			<item name="MX_LiveFHD_posterX-v3_New" info="openBH_5.4.003-py-3.12.2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/BH-Skins/main/MX-LiveFHD-posterX-v3_mod-HAhmed.sh -O - | /bin/sh</item>
