@@ -2,7 +2,16 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 29-04-2025"
+echo "> 06-05-2025"
+sleep 2s
+
+echo " "
+echo "> 06-05-2025"
+sleep 2s
+echo "> xklass plugin v1.51 06-05-2025 updated"
+echo "> xstreamity plugin v4.99 06-05-2025 updated"
+echo "> bouquetmakerxtream 1.52 06-05-2025 updated"
+echo "> fullhdglass17 skin 9.50 06-05-2025 updated"
 sleep 2s
 
 echo " "
@@ -68,5 +77,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 29-04-2025 <<<"
+echo ">>> Last Updatting 06-05-2025 <<<"
 exit 0
