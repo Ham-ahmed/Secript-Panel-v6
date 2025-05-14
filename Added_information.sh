@@ -2,7 +2,15 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 10-05-2025"
+echo "> 15-05-2025"
+sleep 2s
+
+echo " "
+echo "> 15-05-2025"
+sleep 2s
+echo "> AJPanel plugin v10.8.3 15-05-2025 updated"
+echo "> E2IPlayer+Tsplayer pugin 15-05-2025 updated"
+echo "> Ciefp Plugin v1.5 15-05-2025 updated"
 sleep 2s
 
 echo " "
@@ -86,5 +94,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 10-05-2025 <<<"
+echo ">>> Last Updatting 15-05-2025 <<<"
 exit 0
