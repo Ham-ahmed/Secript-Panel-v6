@@ -27,6 +27,7 @@
 		</submenu>
 
 		<submenu title="openSpa-8.3-8.3.004" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/sp.png" bg="/media/hdd/AJPanel_Backup/vector/s-s.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
+			<item name="estuaryFHD-v5-RED_MOD-HA" info="MOD-HAhmed_py3.12.9-only_openspa_v8.5.001" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/openspa/refs/heads/main/esturyHD-Spa-v5_red-MOD_HA.sh -O - | /bin/sh</item>
 			<item name="estuaryFHD-posterX-v.5" info="MOD-HAhmed_py3.12.4-only_openspa_v8.4.001" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/openspa/main/estuaryHD_openspa-posterX-v.5-mod-HAhmed.sh -O - | /bin/sh</item>
 			<item name="estuaryFHD_v2" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel/main/Skin-estuaryFHD_v2-openspa-Mod_HAhmed.sh -O - | /bin/sh</item>
 			<item name="estuaryFHD_v1" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/sk4.png">wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/HAhmed-Scripts/main/Skin-estuaryFHD_v1-openspai-Mod_HAhmed.sh -O - | /bin/sh</item>
