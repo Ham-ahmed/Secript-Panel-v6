@@ -2,7 +2,26 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 15-05-2025"
+echo "> 19-05-2025"
+sleep 2s
+
+echo " "
+echo "> 19-05-2025"
+sleep 2s
+echo "> 54-xklass Mange playlists 19-05-2025 updated"
+echo "> 54-xstreamity Mange playlists 19-05-2025 updated"
+echo "> estuaryFHD sKIN OpenSpa RED MOD 19-05-2025 updated"
+sleep 2s
+
+echo " "
+echo "> 21-04-2025"
+sleep 2s
+echo "> 67-xklass Mange playlists 21-04-2025 updated"
+echo "> 67-xstreamity Mange playlists 21-04-2025 updated"
+echo "> Ncam v15.3 r0 New 21-04-2025 updated"
+echo "> bouquetmakerxtream 1.51 21-04-2025 updated"
+echo "> e2iplayer zadmario plugin 21-04-2025 updated"
+echo "> osacamstatus v5.6 21-04-2025 updated"
 sleep 2s
 
 echo " "
@@ -94,5 +113,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 15-05-2025 <<<"
+echo ">>> Last Updatting 19-05-2025 <<<"
 exit 0
