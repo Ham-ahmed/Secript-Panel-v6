@@ -2,7 +2,22 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 26-05-2025"
+echo "> 20-06-2025"
+sleep 2s
+
+echo " "
+echo "> 20-06-2025"
+sleep 2s
+echo "> auto dcw key add v1.0.6 20-06-2025 updated"
+echo "> stalkerportalconverter plugin v1.3 20-06-2025 updated"
+echo "> oscam emu icamall V.9.0 20-06-2025 updated"
+echo "> oscam emu 11884 802 audi06_19 20-06-2025 updated"
+echo "> vavoo plugin v1.38 20-06-2025 updated"
+echo "> levi45 settings plugin v1.2 20-06-2025 updated"
+echo "> AglarePli FHD v6.0 skin 20-06-2025 updated"
+echo "> luka FHD v6.0 skin egami 20-06-2025 updated"
+echo "> xdreamy FHD v5.9.4 skin 20-06-2025 updated"
+echo "> Fury FHD v4.4 skin egami 20-06-2025 updated"
 sleep 2s
 
 echo " "
