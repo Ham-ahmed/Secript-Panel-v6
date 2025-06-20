@@ -144,5 +144,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 26-05-2025 <<<"
+echo ">>> Last Updatting 20-06-2025 <<<"
 exit 0
