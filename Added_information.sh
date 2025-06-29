@@ -2,13 +2,13 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 20-06-2025"
+echo "> 30-06-2025"
 sleep 2s
 
 echo " "
-echo "> 20-06-2025"
+echo "> 30-06-2025"
 sleep 2s
-echo "> auto dcw key add v1.0.6 20-06-2025 updated"
+echo "> auto dcw key add v1.0.6 30-06-2025 updated"
 echo "> stalkerportalconverter plugin v1.3 20-06-2025 updated"
 echo "> oscam emu icamall V.9.0 20-06-2025 updated"
 echo "> oscam emu 11884 802 audi06_19 20-06-2025 updated"
@@ -18,6 +18,18 @@ echo "> AglarePli FHD v6.0 skin 20-06-2025 updated"
 echo "> luka FHD v6.0 skin egami 20-06-2025 updated"
 echo "> xdreamy FHD v5.9.4 skin 20-06-2025 updated"
 echo "> Fury FHD v4.4 skin egami 20-06-2025 updated"
+sleep 2s
+
+echo " "
+echo "> 20-06-2025"
+sleep 2s
+echo "> Subssupport v1.7.0 r21 30-06-2025 updated"
+echo "> keyadder v9.3 plugin 30-06-2025 updated"
+echo "> historyzap v1.0.44.0 30-06-2025 updated"
+echo "> backupsuite v3.0_r6 30-06-2025 updated"
+echo "> oscamstatus plugin v6.8 30-06-2025 updated"
+echo "> levi45multicammanager v10.2-r2 30-06-2025 updated"
+echo "> XDREAMY_AiO v.1.2 skin 30-06-2025 updated"
 sleep 2s
 
 echo " "
@@ -144,5 +156,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 20-06-2025 <<<"
+echo ">>> Last Updatting 30-06-2025 <<<"
 exit 0
