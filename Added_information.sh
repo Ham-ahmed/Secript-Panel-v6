@@ -2,9 +2,22 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 30-06-2025"
+echo "> 18-07-2025"
 sleep 2s
 
+
+echo " "
+echo "> 18-07-2025"
+sleep 2s
+echo "> Subssupport v1.7.0 r25 17-07-2025 updated"
+echo "> oaweather v4.0 plugin 17-07-2025 updated"
+echo "> historyzapselector dorik 17-07-2025 updated"
+echo "> xklass v1.57 17-07-2025 updated"
+echo "> xstreamity v5.05 17-07-2025 updated"
+echo "> oscam emu levi45 11885-802 17-07-2025 updated"
+echo "> EPGGrabber v24.6 plugin 17-07-2025 updated"
+echo "> subssupport v1.7-R25 plugin 17-07-2025 updated"
+sleep 2s
 
 echo " "
 echo "> 30-06-2025"
@@ -157,5 +170,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 30-06-2025 <<<"
+echo ">>> Last Updatting 18-07-2025 <<<"
 exit 0
