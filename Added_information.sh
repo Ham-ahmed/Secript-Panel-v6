@@ -2,7 +2,16 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 18-07-2025"
+echo "> 21-07-2025"
+sleep 2s
+
+echo " "
+echo "> 21-07-2025"
+sleep 2s
+echo "> historyzap plugin v1.0.45 21-05-2025 updated"
+echo "> oscamstatus plugin v6.91 21-07-2025 updated"
+echo "> bouquetmakerxtream 1.58 21-07-2025 updated"
+echo "> backupsuite plugin v3.0-r9 21-07-202 updated"
 sleep 2s
 
 
