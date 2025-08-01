@@ -9,6 +9,7 @@ echo " "
 echo "> 02-08-2025"
 sleep 2s
 echo "> multibootselector v1.4.0 02-08-2025 updated"
+echo "> HAZEM-WAHBA Channels 02-08-2025 updated"
 echo "> estalker v1.03 plugin 02-08-2025 updated"
 echo "> xtraevent plugin v6.870 02-08-2025 updated"
 echo "> oscamstatus plugin v6.94 02-08-2025 updated"
