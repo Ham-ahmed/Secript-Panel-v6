@@ -2,7 +2,19 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 21-07-2025"
+echo "> 02-08-2025"
+sleep 2s
+
+echo " "
+echo "> 02-08-2025"
+sleep 2s
+echo "> multibootselector v1.4.0 02-08-2025 updated"
+echo "> estalker v1.03 plugin 02-08-2025 updated"
+echo "> xtraevent plugin v6.870 02-08-2025 updated"
+echo "> oscamstatus plugin v6.94 02-08-2025 updated"
+echo "> simple-zoom-panel v2.2.7 02-08-2025 updated"
+echo "> oscam emu levi45 11885-802 02-08-2025 updated"
+echo "> panelaio v1.6 02-08-2025 updated"
 sleep 2s
 
 echo " "
@@ -13,7 +25,6 @@ echo "> oscamstatus plugin v6.91 21-07-2025 updated"
 echo "> bouquetmakerxtream 1.58 21-07-2025 updated"
 echo "> backupsuite plugin v3.0-r9 21-07-202 updated"
 sleep 2s
-
 
 echo " "
 echo "> 18-07-2025"
@@ -179,5 +190,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 21-07-2025 <<<"
+echo ">>> Last Updatting 02-08-2025 <<<"
 exit 0
