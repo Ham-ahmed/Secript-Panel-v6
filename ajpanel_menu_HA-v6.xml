@@ -304,8 +304,8 @@
 	</submenu>
 	
         <submenu title="HAZEM-WAHBA_Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
-		<item name="HAZEM-WAHBA_Channels-motor02-08-2025" info="New-File_from-30w-To-75E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/28/refs/heads/main/HAZEM-WAHBA_Channels.sh -O - | /bin/sh</item>
-		<item name="HAZEM-WAHBA_Channels-motor04-08-2025" info="New-File_from-30w-To-75E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/48/refs/heads/main/HAZEM-WAHBA_Channels.sh -O - | /bin/sh</item>
+		<item name="HAZEM-WAHBA_Channels-motor04-08-2025" info="New-File_from-34w-To-80E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/48/refs/heads/main/HAZEM-WAHBA_Channels.sh -O - | /bin/sh</item>
+		<item name="HAZEM-WAHBA_Channels-motor02-08-2025" info="New-File_from-34w-To-80E" ask="yes" icon="/media/hdd/AJPanel_Backup/vector/ch.png">wget https://raw.githubusercontent.com/Ham-ahmed/28/refs/heads/main/HAZEM-WAHBA_Channels.sh -O - | /bin/sh</item>
 	</submenu>
 	
 	<submenu title="Channels" info="Channel All Sat" mode="grid" width="1600" height="930" icon="/media/hdd/AJPanel_Backup/vector/Channels.png" bg="/media/hdd/AJPanel_Backup/vector/kk.png" title_bg="#06000040" cursor="/media/hdd/AJPanel_Backup/vector/frm1.png">
