@@ -2,7 +2,18 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 07-08-2025"
+echo "> 08-08-2025"
+sleep 2s
+
+echo " "
+echo "> 08-08-2025"
+sleep 2s
+echo "> estalker v1.05 plugin 08-08-2025 updated"
+echo "> xklass plugin v1.60 08-08-2025 updated"
+echo "> xstreamity plugin v5.07 08-08-2025 updated"
+echo "> bouquetmakerxtream v1.59 08-08-2025 updated"
+echo "> simple-zoom-panel v2.2.7 08-08-2025 updated"
+echo "> oscamicamnewtest_ICAMEMUTEST v11886 08-08-2025 updated"
 sleep 2s
 
 echo " "
@@ -205,5 +216,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 07-08-2025 <<<"
+echo ">>> Last Updatting 08-08-2025 <<<"
 exit 0
