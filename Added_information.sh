@@ -2,7 +2,13 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 08-08-2025"
+echo "> 10-08-2025"
+sleep 2s
+
+echo " "
+echo "> 10-08-2025"
+sleep 2s
+echo "> HAZEM-WAHBA Channels 10-08-2025 updated"
 sleep 2s
 
 echo " "
@@ -216,5 +222,5 @@ echo "> bouquetmakerxtream 1.47 06-04-2025 updated"
 echo "> fullhdglass17 skin 9.32 06-04-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 08-08-2025 <<<"
+echo ">>> Last Updatting 10-08-2025 <<<"
 exit 0
