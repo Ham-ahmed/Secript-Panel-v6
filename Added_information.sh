@@ -18,6 +18,7 @@ echo "> novacam-py3.13 19-08-2025 updated"
 echo "> novatv-py3.13 19-08-2025 updated"
 echo "> beengo-py3.13 19-08-2025 updated"
 echo "> novalertv-py3.13 19-08-2025 updated"
+echo "> Fury FHD v4.6 skin 19-08-2025 updated"
 sleep 2s
 
 echo " "
