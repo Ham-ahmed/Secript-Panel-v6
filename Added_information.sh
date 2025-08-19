@@ -2,7 +2,22 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 11-08-2025"
+echo "> 19-08-2025"
+sleep 2s
+
+echo " "
+echo "> 19-08-2025"
+sleep 2s
+echo "> estalker v1.07 plugin 19-08-2025 updated"
+echo "> xstreamity plugin v5.09 19-08-2025 updated"
+echo "> servicescanupdates plugin v3.2 19-08-2025 updated"
+echo "> levi45emulator 1.00 19-08-2025 updated"
+echo "> Levi45 Multicam Manager 10.2-r2 19-08-2025 updated"
+echo "> novalerstore-py3.13 19-08-2025 updated"
+echo "> novacam-py3.13 19-08-2025 updated"
+echo "> novatv-py3.13 19-08-2025 updated"
+echo "> beengo-py3.13 19-08-2025 updated"
+echo "> novalertv-py3.13 19-08-2025 updated"
 sleep 2s
 
 echo " "
@@ -170,5 +185,5 @@ echo "> bouquetmakerxtream 1.52 06-05-2025 updated"
 echo "> fullhdglass17 skin 9.50 06-05-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 11-08-2025 <<<"
+echo ">>> Last Updatting 19-08-2025 <<<"
 exit 0
