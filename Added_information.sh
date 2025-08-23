@@ -2,11 +2,22 @@
 DATE="$(date +%a.%d.%b.%Y)"
 echo ">>>H-Ahmed_panelv5 $DATE<<<"
 echo " "
-echo "> 22-08-2025"
+echo "> 23-08-2025"
 sleep 2s
 
 echo " "
-echo "> 19-08-2025"
+echo "> 23-08-2025"
+sleep 2s
+echo "> auto-dcw-key-add v1.0.7 23-08-2025 updated"
+echo "> estalker v0.11 plugin 23-08-2025 updated"
+echo "> oscamicamall V.9.2 Kitte888 23-08-2025 updated"
+echo "> CiefpOscamEditor v1.2.0 23-08-2025 updated"
+echo "> xDreamy 6.0.0 Skin 23-08-2025 updated"
+echo "> Ghost-Net_Arabization 23-08-2025 updated"
+sleep 2s
+
+echo " "
+echo "> 22-08-2025"
 sleep 2s
 echo "> Sky-Novalerx_3.0 MOD_HAhmed 22-08-2025 updated"
 sleep 2s
@@ -192,5 +203,5 @@ echo "> bouquetmakerxtream 1.52 06-05-2025 updated"
 echo "> fullhdglass17 skin 9.50 06-05-2025 updated"
 sleep 2s
 
-echo ">>> Last Updatting 22-08-2025 <<<"
+echo ">>> Last Updatting 23-08-2025 <<<"
 exit 0
