@@ -9,6 +9,12 @@ echo " "
 echo "> 28-08-2025"
 sleep 2s
 echo "> Artemis v1.0 mod HA Skin 28-08-2025 updated"
+echo "> HAZEM-WAHBA Channels 28-08-2025 updated"
+echo "> auto-dcw-key-add v1.0.8 28-08-2025 updated"
+echo "> multibootselector 1.16-r0 28-08-2025 updated"
+echo "> raedquicksignal 18.0-BO-hlala 28-08-2025 updated"
+echo "> Ciefp satellite analyzer 28-08-2025 updated"
+echo "> xDreamy 6.1.0 skin 28-08-2025 updated"
 sleep 2s
 
 echo " "
