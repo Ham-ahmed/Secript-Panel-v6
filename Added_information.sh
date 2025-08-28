@@ -6,7 +6,7 @@ echo "> 28-08-2025"
 sleep 2s
 
 echo " "
-echo "> 23-08-2025"
+echo "> 28-08-2025"
 sleep 2s
 echo "> Artemis v1.0 mod HA Skin 28-08-2025 updated"
 sleep 2s
