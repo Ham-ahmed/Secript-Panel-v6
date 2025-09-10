@@ -1,13 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import os
-import sys
-import time
-import requests
-import xml.etree.ElementTree as ET
-from pathlib import Path
-
 def main():
     # Config
     try:
