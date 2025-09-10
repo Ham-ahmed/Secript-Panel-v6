@@ -7,10 +7,9 @@ package=$espp$pack
 url=https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel-v6/refs/heads/main/ajpanel_menu.xml
 
 #download & install
-echo "> installing latest update please wait ..."
-sleep 3s
-wget -O $package --no-check-certificate $url
+wget -qO $package --no-check-certificate $url
+sleep 3
 
-wget "http://localhost/web/message?text=> $(date +%a.%d.%b.%Y),  ajpanel_menu_HA-v6 is updated successfully &type=5&timeout=5" >/dev/null 2>&1
+wget "http://localhost/web/message?text=> $(date +%a.%d.%b.%Y),  New-panel_v6-H-Ahmed is updated successfully Thank you for choosing my panel &type=5&timeout=5" >/dev/null 2>&1
 sleep 5
 
