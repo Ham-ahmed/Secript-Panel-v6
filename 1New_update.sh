@@ -1,15 +1,29 @@
 #!/bin/bash
 
 #config
-espp=$(cat /etc/enigma2/settings | grep config.plugins.AJPanel.backupPath | cut -d '=' -f 2)
+config_file="/etc/enigma2/settings"
+espp=$(grep "config.plugins.AJPanel.backupPath" "$config_file" | cut -d '=' -f 2)
 pack="ajpanel_menu.xml"
-package=$espp$pack
-url=https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel-v6/refs/heads/main/ajpanel_menu.xml
+package="${espp}/${pack}"  # إضافة / لفصل المسار عن اسم الملف
+url="https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel-v6/refs/heads/main/ajpanel_menu.xml"
+
+# التحقق من وجود المسار
+if [ ! -d "$espp" ]; then
+    echo "Error: Backup path does not exist: $espp"
+    exit 1
+fi
 
 #download & install
-wget -qO $package --no-check-certificate $url
-sleep 3
-
-wget "http://localhost/web/message?text=> $(date +%a.%d.%b.%Y),  New-panel_v6-H-Ahmed is updated successfully Thank you for choosing my panel &type=5&timeout=5" >/dev/null 2>&1
-sleep 5
+if wget -qO "$package" --no-check-certificate "$url"; then
+    echo "Download successful: $package"
+    sleep 3
+    
+    # إرسال رسالة نجاح
+    message="> $(date +%a.%d.%b.%Y), panel H-Ahmed v6 is updated successfully"
+    wget -qO /dev/null "http://localhost/web/message?text=${message}&type=5&timeout=5" 2>/dev/null
+    sleep 5
+else
+    echo "Error: Download failed"
+    exit 1
+fi
 
