@@ -3,11 +3,11 @@
 espp=$(cat /etc/enigma2/settings | grep config.plugins.AJPanel.backupPath | cut -d '=' -f 2)
 
 
-pack="ajpanel_menu_HA-v6.xml"
+pack="ajpanel_menu.xml"
 package=$espp$pack
 url=https://raw.githubusercontent.com/Ham-ahmed/Secript-Panel-v6/refs/heads/main/ajpanel_menu.xml
 if [ "$espp" == "/media/hdd/AJPanel_Backup/" ]; then
-pack="ajpanel_menu.xml"
+pack="ajpanel_menu_HA-v6.xml"
 package=$espp$pack
 fi
 
