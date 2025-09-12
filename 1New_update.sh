@@ -56,15 +56,12 @@ fi
 echo "Download completed successfully."
 echo "File saved to: $destination_file"
 
-# --- التغييرات الجديدة تبدأ من هنا ---
 
-# قراءة محتوى الملف
 update_content=$(cat "$destination_file")
 
-# تكوين الرسالة مع محتوى التحديث
 # Encode the success message for the Enigma2 web interface
 current_date=$(date +"%d-%m-%Y")
-# *** هنا تم التعديل على الرسالة ***
+
 message_text="Update successful: New.panel.v6.0-HA enjooooooooooy - AJPanel menu was updated on $current_date"
 
 # Use 'sed' to URL-encode the message for safer transmission
