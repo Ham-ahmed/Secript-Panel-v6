@@ -37,7 +37,7 @@ if [ $? -eq 0 ]; then
         echo "File saved to: $package"
         
         # Send success notification
-        message_text="> $(date +%a.%d.%b.%Y), panel-v6_HA is updated successfully"
+        message_text="> $(date +%a.%d.%b.%Y), ajpanel_menu_HA-v6 is updated successfully"
         wget -qO /dev/null "http://localhost/web/message?text=${message_text}&type=5&timeout=5"
         
         echo "Update completed successfully"
