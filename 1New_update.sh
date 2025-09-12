@@ -59,7 +59,7 @@ echo "File saved to: $destination_file"
 # Encode the success message for the Enigma2 web interface
 current_date=$(date +"%d-%m-%Y")
 # *** هنا تم التعديل على الرسالة ***
-message_text="Update successful: New.panel.v6.0-HA enjooooooooooy - AJPanel menu was updated on $current_date"
+message_text="Update successful: enjooooooooooy ... New.panel.v6.0 HA Update on $current_date"
 
 # Use 'sed' to URL-encode the message for safer transmission
 encoded_message=$(echo "$message_text" | sed 's/ /%20/g;s/,/%2C/g;s/:/%3A/g')
