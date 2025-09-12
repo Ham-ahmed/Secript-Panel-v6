@@ -39,7 +39,7 @@ if [ $? -eq 0 ]; then
         # Send success notification
         message_text="> $(date +%a.%d.%b.%Y), ajpanel_menu_HA-v6 is updated successfully"
         wget -qO /dev/null "http://localhost/web/message?text=${message_text}&type=5&timeout=5"
-        
+        echo "6.1" > /usr/lib/enigma2/python/Plugins/Extensions/AJPanel/version
         echo "Update completed successfully"
     else
         echo "Error: Downloaded file not found"
