@@ -40,6 +40,19 @@ destination_file="${backup_path%/}/$package_name"
 echo "Attempting to download update from $url..."
 wget -qO "$destination_file" --no-check-certificate "$url"
 
+if [ -f "$package" ]; then
+        echo "File saved to: $package"
+        
+        # Send success notification (URL encode spaces)
+        message_text=">%20$(date +%a.%d.%b.%Y),%20ajpanel_menu_HA-v6%20is%20updated%20successfully"
+        wget -qO /dev/null "http://127.0.0.1/web/message?text=${message_text}&type=5&timeout=5"
+        
+        echo "Update completed successfully"
+    else
+        echo "Error: Downloaded file not found"
+        exit 1
+    fi
+
 if [ $? -ne 0 ]; then
     echo "Error: Download failed. Please check your internet connection."
     exit 1
