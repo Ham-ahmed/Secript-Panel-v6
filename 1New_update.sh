@@ -62,13 +62,13 @@ echo "File saved to: $destination_file"
 update_content=$(cat "$destination_file")
 
 # تكوين الرسالة مع محتوى التحديث
-message_text="Update successful: AJPanel menu was updated.\n\n$update_content"
-
-# --- التغييرات الجديدة تنتهي هنا ---
-
 # Encode the success message for the Enigma2 web interface
-# استخدام 'sed' لترميز الرسالة لضمان التوافق
-encoded_message=$(echo "$message_text" | sed 's/ /%20/g;s/,/%2C/g;s/:/%3A/g;s/\n/%0A/g')
+current_date=$(date +"%d-%m-%Y")
+# *** هنا تم التعديل على الرسالة ***
+message_text="Update successful: New.panel.v6.0-HA enjooooooooooy - AJPanel menu was updated on $current_date"
+
+# Use 'sed' to URL-encode the message for safer transmission
+encoded_message=$(echo "$message_text" | sed 's/ /%20/g;s/,/%2C/g;s/:/%3A/g')
 
 # Send a success notification to the Enigma2 box
 wget -qO /dev/null "http://127.0.0.1/web/message?text=${encoded_message}&type=5&timeout=15"
