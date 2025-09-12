@@ -68,7 +68,7 @@ message_text="Update successful: New.panel.v6.0-HA enjooooooooooy - AJPanel menu
 encoded_message=$(echo "$message_text" | sed 's/ /%20/g;s/,/%2C/g;s/:/%3A/g')
 
 # Send a success notification to the Enigma2 box
-wget -qO /dev/null "http://127.0.0.1/web/message?text=${encoded_message}&type=5&timeout=15"
+wget -qO /dev/null "http://127.0.0.1/web/message?text=${encoded_message}&type=5&timeout=10"
 
 echo "Update process finished."
 sleep 3
